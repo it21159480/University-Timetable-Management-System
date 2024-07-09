@@ -80,7 +80,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
     
-    git clone [https://github.com/sliitcsse/assignment-01-it21159480.git](https://github.com/sliitcsse/assignment-01-it21159480.git)
+    git clone [https://github.com/it21159480/University-Timetable-Management-System.git](https://github.com/it21159480/University-Timetable-Management-System.git)
     
 2. Navigate to the project directory:
     
